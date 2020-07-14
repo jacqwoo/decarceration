@@ -1,5 +1,5 @@
 # -----------------------------------------------------------------------------
-# Title: Impact of Reform Prosecution in Dallas
+# Title: Impact of Reform Prosecution in Dallas - Stage 1 (Cleaning & Matching)
 # Author: Jacqueline Woo, jacqwoo@gmail.com
 # Date: 4/22/2020
 # R Version: 3.6.3
