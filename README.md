@@ -1,8 +1,10 @@
 # decarceration
 Analysis of longitudinal census and Uniform Crime Report data in Texas to assess the effect of a reform prosecutor on crime, using differences-in-differences analysis
 
-This analysis aims to examine the impact of elected a reform-minded DA, Craig Watkins, in Dallas County, TX, on serious crime. 
-Watkins is one of the first "reform-minded" DAs elected in the US, which translates a larger dataset to work with. In the case of my analysis, was matching and differences-in-differences, this enabled a longer post period. There is a big caveat to this analysis. The influence of DAs lies mostly in the judicial branch and I was not able to identify specific policies or procedures that would plausibly reduce serious crime. This hinders the internal validity of this analysis. I still think this is an interesting question that will hopefully generate more answers with more time and data.
+This analysis aims to examine the impact of elected a reform-minded DA, Craig Watkins, in Dallas County, TX, on violent crime. 
+Watkins is one of the first "reform-minded" DAs elected in the US, which translates a larger dataset to work with. In the case of my analysis, was matching and differences-in-differences, this enabled a longer post period. 
+Findings: After Watkin's election in 2014, Dallas experienced a notable decline in violent crime on its own, but this decline was particularly significant compared to the violent crime rate within the control group
+There are a few caveats to this analysis. The influence of DAs lies mostly in the judicial branch and I was not able to identify specific policies or procedures that would plausibly reduce serious crime. This hinders the internal validity of this analysis. Additionally, differences-in-differences analysis relies to the "parallel trends" assumption--ie, that prior to the intervention, the treated and control group's trend lines move in tandem over time, an indication that both are similar enough to be compared in the post period. The final graph shows a roughly parallel trend that begins to narrow in the early 2000s, implying that some differences begin to emerge during that time. Still, Dallas' decline in crime is stark enough that I think the findings are worthwhile investigating further. 
 
 1. Background
 - Reform Prosecution.pptx provides a brief background on the issue and a graph of the final analysis
