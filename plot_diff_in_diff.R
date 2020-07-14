@@ -1,3 +1,11 @@
+# -----------------------------------------------------------------------------
+# Title: California POlicy Lab Data Assessment
+# Author: Jacqueline Woo, jzw2108@columbia.edu
+# Date: 5/12/2020
+# R Version: 3.6.3
+# RStudio Version: 1.2.5033
+# -----------------------------------------------------------------------------
+
 rm(list = ls())       # clear objects in memory
 library(dplyr)
 library(tidyr)
