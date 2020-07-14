@@ -1,9 +1,19 @@
 # -----------------------------------------------------------------------------
-# Title: California POlicy Lab Data Assessment
-# Author: Jacqueline Woo, jzw2108@columbia.edu
-# Date: 5/12/2020
+# Title: Impact of Reform Prosecution in Dallas - Stage 2 (Plotting & Analysis)
+# Author: Jacqueline Woo, jacqwoo@gmail.com
+# Date: 4/27/2020
 # R Version: 3.6.3
 # RStudio Version: 1.2.5033
+# Note: This analysis aims to examine the impact of elected a reform-minded DA, 
+# ## Craig Watkins, in Dallas County, TX, on serious crim. Watkins is one of the 
+# ## first "reform-minded" DAs elected in the US, which translates a larger 
+# ## dataset to work with. In the case of my analysis, with was matchin and 
+# ## differences-in-differences, this enabled a longer post period. There is a 
+# ## big caveat to this analysis. The influence of DAs lies mostly in the 
+# ## judicial branch and I was not able to identify specific policies or 
+# ## procedures that would plausibly reduce serious crime. This hinders the 
+# ## internal validity of this analysis. I still think this is an interesting 
+# ## question that will hopefully generate more answers with more time and data.
 # -----------------------------------------------------------------------------
 
 rm(list = ls())       # clear objects in memory
