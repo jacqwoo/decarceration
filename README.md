@@ -1,4 +1,4 @@
-# decarceration
+# reform prosecution
 Analysis of longitudinal census and Uniform Crime Report data in Texas to assess the effect of a reform prosecutor on crime, using differences-in-differences analysis
 
 This analysis aims to examine the impact of elected a reform-minded DA, Craig Watkins, in Dallas County, TX, on violent crime. 
